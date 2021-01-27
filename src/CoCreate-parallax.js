@@ -13,3 +13,4 @@ function setparallax()
     }
     
     setparallax();
+// export default setparallax;
