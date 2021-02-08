@@ -9,7 +9,7 @@ module.exports = {
     sources: [{
             path: "./docs/index.html",
             collection: "files",
-            document_id: "",
+            document_id: "60208f6c3c260207bf49cabc",
             key: "html",
             data:{
                 name: "Parallax Doc",
@@ -19,10 +19,10 @@ module.exports = {
    
     crud: [{
             collection: "routes",
-            document_id: "",
+            document_id: "60208f6c3c260207bf49cabb",
             data:{
                 collection: "files",
-                document_id: "",
+                document_id: "60208f6c3c260207bf49cabc",
                 name: "html",
                 domains: ["cocreate.app", "server.cocreate.app", "ws.cocreate.app"],
                 route: "/docs/parallax",
