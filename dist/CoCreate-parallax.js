@@ -4,9 +4,9 @@
 	else if(typeof define === 'function' && define.amd)
 		define([], factory);
 	else if(typeof exports === 'object')
-		exports["CoCreateParallax"] = factory();
+		exports["parallax"] = factory();
 	else
-		root["CoCreateParallax"] = factory();
+		root["CoCreate"] = root["CoCreate"] || {}, root["CoCreate"]["parallax"] = factory();
 })(this, function() {
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
@@ -91,19 +91,20 @@ return /******/ (function(modules) { // webpackBootstrap
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "./CoCreate-components/CoCreate-parallax/src/CoCreate-parallax.js");
+/******/ 	return __webpack_require__(__webpack_require__.s = "../CoCreate-components/CoCreate-parallax/src/CoCreate-parallax.js");
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "./CoCreate-components/CoCreate-parallax/src/CoCreate-parallax.js":
-/*!************************************************************************!*\
-  !*** ./CoCreate-components/CoCreate-parallax/src/CoCreate-parallax.js ***!
-  \************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/***/ "../CoCreate-components/CoCreate-parallax/src/CoCreate-parallax.js":
+/*!*************************************************************************!*\
+  !*** ../CoCreate-components/CoCreate-parallax/src/CoCreate-parallax.js ***!
+  \*************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("function setparallax() {\n  var parallaxEls = document.getElementsByClassName(\"parallax\");\n\n  for (var i = 0; i < parallaxEls.length; i++) {\n    var parallaxEl = parallaxEls.item(i);\n    parallaxEl.style.backgroundImage = 'url(' + parallaxEl.getAttribute('data-parallax_src') + ')';\n    parallaxEl.style.height = parallaxEl.getAttribute('data-parallax_height');\n  }\n}\n\nsetparallax(); // export default setparallax;//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9Db0NyZWF0ZVBhcmFsbGF4Ly4vQ29DcmVhdGUtY29tcG9uZW50cy9Db0NyZWF0ZS1wYXJhbGxheC9zcmMvQ29DcmVhdGUtcGFyYWxsYXguanM/ODUyNyJdLCJuYW1lcyI6WyJzZXRwYXJhbGxheCIsInBhcmFsbGF4RWxzIiwiZG9jdW1lbnQiLCJnZXRFbGVtZW50c0J5Q2xhc3NOYW1lIiwiaSIsImxlbmd0aCIsInBhcmFsbGF4RWwiLCJpdGVtIiwic3R5bGUiLCJiYWNrZ3JvdW5kSW1hZ2UiLCJnZXRBdHRyaWJ1dGUiLCJoZWlnaHQiXSwibWFwcGluZ3MiOiJBQUNBLFNBQVNBLFdBQVQsR0FDSTtBQUNFLE1BQUlDLFdBQVcsR0FBR0MsUUFBUSxDQUFDQyxzQkFBVCxDQUFnQyxVQUFoQyxDQUFsQjs7QUFFRixPQUFLLElBQUlDLENBQUMsR0FBQyxDQUFYLEVBQWNBLENBQUMsR0FBQ0gsV0FBVyxDQUFDSSxNQUE1QixFQUFvQ0QsQ0FBQyxFQUFyQyxFQUF5QztBQUNyQyxRQUFJRSxVQUFVLEdBQUdMLFdBQVcsQ0FBQ00sSUFBWixDQUFpQkgsQ0FBakIsQ0FBakI7QUFFQUUsY0FBVSxDQUFDRSxLQUFYLENBQWlCQyxlQUFqQixHQUFtQyxTQUFPSCxVQUFVLENBQUNJLFlBQVgsQ0FBd0IsbUJBQXhCLENBQVAsR0FBb0QsR0FBdkY7QUFDQUosY0FBVSxDQUFDRSxLQUFYLENBQWlCRyxNQUFqQixHQUEwQkwsVUFBVSxDQUFDSSxZQUFYLENBQXdCLHNCQUF4QixDQUExQjtBQUNGO0FBRUQ7O0FBRURWLFdBQVcsRyxDQUNmIiwiZmlsZSI6Ii4vQ29DcmVhdGUtY29tcG9uZW50cy9Db0NyZWF0ZS1wYXJhbGxheC9zcmMvQ29DcmVhdGUtcGFyYWxsYXguanMuanMiLCJzb3VyY2VzQ29udGVudCI6WyJcbmZ1bmN0aW9uIHNldHBhcmFsbGF4KClcbiAgICB7XG4gICAgICB2YXIgcGFyYWxsYXhFbHMgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5Q2xhc3NOYW1lKFwicGFyYWxsYXhcIik7XG4gICAgXG4gICAgZm9yICh2YXIgaT0wOyBpPHBhcmFsbGF4RWxzLmxlbmd0aDsgaSsrKSB7XG4gICAgXHRcdCAgdmFyIHBhcmFsbGF4RWwgPSBwYXJhbGxheEVscy5pdGVtKGkpO1xuICAgIFx0XHQgIFxuICAgIFx0XHQgIHBhcmFsbGF4RWwuc3R5bGUuYmFja2dyb3VuZEltYWdlID0gJ3VybCgnK3BhcmFsbGF4RWwuZ2V0QXR0cmlidXRlKCdkYXRhLXBhcmFsbGF4X3NyYycpKycpJztcbiAgICBcdFx0ICBwYXJhbGxheEVsLnN0eWxlLmhlaWdodCA9IHBhcmFsbGF4RWwuZ2V0QXR0cmlidXRlKCdkYXRhLXBhcmFsbGF4X2hlaWdodCcpO1xuICAgIFx0fVxuICAgIFx0XG4gICAgfVxuICAgIFxuICAgIHNldHBhcmFsbGF4KCk7XG4vLyBleHBvcnQgZGVmYXVsdCBzZXRwYXJhbGxheDsiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./CoCreate-components/CoCreate-parallax/src/CoCreate-parallax.js\n");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\nfunction CoCreateParallax() {\n  var parallaxEls = document.getElementsByClassName(\"parallax\");\n\n  for (var i = 0; i < parallaxEls.length; i++) {\n    var parallaxEl = parallaxEls.item(i);\n    parallaxEl.style.backgroundImage = 'url(' + parallaxEl.getAttribute('data-parallax_src') + ')';\n    parallaxEl.style.height = parallaxEl.getAttribute('data-parallax_height');\n  }\n}\n\nCoCreateParallax();\n/* harmony default export */ __webpack_exports__[\"default\"] = (CoCreateParallax);//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9Db0NyZWF0ZS5wYXJhbGxheC8uLi9Db0NyZWF0ZS1jb21wb25lbnRzL0NvQ3JlYXRlLXBhcmFsbGF4L3NyYy9Db0NyZWF0ZS1wYXJhbGxheC5qcz80MjNmIl0sIm5hbWVzIjpbIkNvQ3JlYXRlUGFyYWxsYXgiLCJwYXJhbGxheEVscyIsImRvY3VtZW50IiwiZ2V0RWxlbWVudHNCeUNsYXNzTmFtZSIsImkiLCJsZW5ndGgiLCJwYXJhbGxheEVsIiwiaXRlbSIsInN0eWxlIiwiYmFja2dyb3VuZEltYWdlIiwiZ2V0QXR0cmlidXRlIiwiaGVpZ2h0Il0sIm1hcHBpbmdzIjoiQUFDQTtBQUFBLFNBQVNBLGdCQUFULEdBQ0k7QUFDRSxNQUFJQyxXQUFXLEdBQUdDLFFBQVEsQ0FBQ0Msc0JBQVQsQ0FBZ0MsVUFBaEMsQ0FBbEI7O0FBRUYsT0FBSyxJQUFJQyxDQUFDLEdBQUMsQ0FBWCxFQUFjQSxDQUFDLEdBQUNILFdBQVcsQ0FBQ0ksTUFBNUIsRUFBb0NELENBQUMsRUFBckMsRUFBeUM7QUFDckMsUUFBSUUsVUFBVSxHQUFHTCxXQUFXLENBQUNNLElBQVosQ0FBaUJILENBQWpCLENBQWpCO0FBRUFFLGNBQVUsQ0FBQ0UsS0FBWCxDQUFpQkMsZUFBakIsR0FBbUMsU0FBT0gsVUFBVSxDQUFDSSxZQUFYLENBQXdCLG1CQUF4QixDQUFQLEdBQW9ELEdBQXZGO0FBQ0FKLGNBQVUsQ0FBQ0UsS0FBWCxDQUFpQkcsTUFBakIsR0FBMEJMLFVBQVUsQ0FBQ0ksWUFBWCxDQUF3QixzQkFBeEIsQ0FBMUI7QUFDRjtBQUVEOztBQUVEVixnQkFBZ0I7QUFDTEEsK0VBQWYiLCJmaWxlIjoiLi4vQ29DcmVhdGUtY29tcG9uZW50cy9Db0NyZWF0ZS1wYXJhbGxheC9zcmMvQ29DcmVhdGUtcGFyYWxsYXguanMuanMiLCJzb3VyY2VzQ29udGVudCI6WyJcbmZ1bmN0aW9uIENvQ3JlYXRlUGFyYWxsYXgoKVxuICAgIHtcbiAgICAgIHZhciBwYXJhbGxheEVscyA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlDbGFzc05hbWUoXCJwYXJhbGxheFwiKTtcbiAgICBcbiAgICBmb3IgKHZhciBpPTA7IGk8cGFyYWxsYXhFbHMubGVuZ3RoOyBpKyspIHtcbiAgICBcdFx0ICB2YXIgcGFyYWxsYXhFbCA9IHBhcmFsbGF4RWxzLml0ZW0oaSk7XG4gICAgXHRcdCAgXG4gICAgXHRcdCAgcGFyYWxsYXhFbC5zdHlsZS5iYWNrZ3JvdW5kSW1hZ2UgPSAndXJsKCcrcGFyYWxsYXhFbC5nZXRBdHRyaWJ1dGUoJ2RhdGEtcGFyYWxsYXhfc3JjJykrJyknO1xuICAgIFx0XHQgIHBhcmFsbGF4RWwuc3R5bGUuaGVpZ2h0ID0gcGFyYWxsYXhFbC5nZXRBdHRyaWJ1dGUoJ2RhdGEtcGFyYWxsYXhfaGVpZ2h0Jyk7XG4gICAgXHR9XG4gICAgXHRcbiAgICB9XG4gICAgXG4gICAgQ29DcmVhdGVQYXJhbGxheCgpO1xuZXhwb3J0IGRlZmF1bHQgQ29DcmVhdGVQYXJhbGxheDsiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///../CoCreate-components/CoCreate-parallax/src/CoCreate-parallax.js\n");
 
 /***/ })
 

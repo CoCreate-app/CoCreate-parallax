@@ -1,5 +1,5 @@
 
-function setparallax()
+function CoCreateParallax()
     {
       var parallaxEls = document.getElementsByClassName("parallax");
     
@@ -12,5 +12,5 @@ function setparallax()
     	
     }
     
-    setparallax();
-// export default setparallax;
+    CoCreateParallax();
+export default CoCreateParallax;
