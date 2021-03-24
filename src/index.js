@@ -1,3 +1,4 @@
+import './CoCreate-parallax.css';
 
 function CoCreateParallax()
     {
