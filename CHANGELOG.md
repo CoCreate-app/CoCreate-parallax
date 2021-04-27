@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.0.4...v1.0.5) (2021-04-27)
+
+
+### Bug Fixes
+
+* add host in docs ([6393f40](https://github.com/CoCreate-app/CoCreate-parallax/commit/6393f400f3f0b18d1ab855742f504831e321a76e))
+
 ## [1.0.4](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.0.3...v1.0.4) (2021-04-27)
 
 
