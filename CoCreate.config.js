@@ -10,7 +10,7 @@ module.exports = {
             "path": "./docs/index.html",
             "collection": "files",
             "document_id": "60208f6c3c260207bf49cabc",
-            "key": "html",
+            "key": "src",
             "data":{
                 "name": "parallax Doc",
                 "domains": ["cocreate.app", "server.cocreate.app", "ws.cocreate.app"],
