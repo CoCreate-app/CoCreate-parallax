@@ -1,6 +1,6 @@
 # CoCreate-parallax
 
-A simple parallax component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API. Take it for a spin in our [playground!](https://cocreate.app/docs/parallax)
+A stunning css effect in which the background moves at a slower pace than the foreground. Resulting in 3D effect when users scroll up/down the webpage. Take it for a spin in our [playground!](https://cocreate.app/docs/parallax)
 
 ![GitHub file size in bytes](https://img.shields.io/github/size/CoCreate-app/CoCreate-parallax/dist/CoCreate-parallax.min.js?label=minified%20size&style=for-the-badge)
 ![GitHub latest release](https://img.shields.io/github/v/release/CoCreate-app/CoCreate-parallax?style=for-the-badge)
