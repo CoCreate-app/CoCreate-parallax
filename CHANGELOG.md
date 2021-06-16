@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.0.6...v1.0.7) (2021-06-16)
+
+
+### Bug Fixes
+
+* added header for seo ([b715837](https://github.com/CoCreate-app/CoCreate-parallax/commit/b715837b1aed02ba6c162cfc94461e0b92fda7e9))
+
 ## [1.0.6](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.0.5...v1.0.6) (2021-06-06)
 
 
