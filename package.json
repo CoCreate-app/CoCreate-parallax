@@ -1,6 +1,6 @@
 {
   "name": "@cocreate/parallax",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A stunning css effect in which the background moves at a slower pace than the foreground. Resulting in 3D effect when users scroll up/down the webpage.",
   "keywords": [
     "parallax",
@@ -20,7 +20,9 @@
     "html5-framework",
     "javascript-framework"
   ],
-  "publishConfig": { "access": "public" },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "start": "npx webpack --config webpack.config.js",
     "build": "NODE_ENV=production npx webpack --config webpack.config.js",
@@ -34,7 +36,9 @@
   },
   "author": "CoCreate LLC",
   "license": "MIT",
-  "bugs": { "url": "https://github.com/CoCreate-app/CoCreate-parallax/issues" },
+  "bugs": {
+    "url": "https://github.com/CoCreate-app/CoCreate-parallax/issues"
+  },
   "homepage": "https://cocreate.app/docs/parallax",
   "funding": {
     "type": "GitHub Sponsors ❤",
