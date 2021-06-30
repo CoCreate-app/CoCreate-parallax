@@ -2,10 +2,12 @@
 
 A stunning css effect in which the background moves at a slower pace than the foreground. Resulting in 3D effect when users scroll up/down the webpage. Take it for a spin in our [playground!](https://cocreate.app/docs/parallax)
 
-![GitHub file size in bytes](https://img.shields.io/github/size/CoCreate-app/CoCreate-parallax/dist/CoCreate-parallax.min.js?label=minified%20size&style=for-the-badge)
-![GitHub latest release](https://img.shields.io/github/v/release/CoCreate-app/CoCreate-parallax?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/CoCreate-app/CoCreate-parallax?style=for-the-badge)
-![GitHub labels](https://img.shields.io/github/labels/CoCreate-app/CoCreate-parallax/help%20wanted?style=for-the-badge)
+![minified](https://img.badgesize.io/https://cdn.cocreate.app/parallax/latest/CoCreate-parallax.min.js?style=flat-square&label=minified&color=orange)
+![gzip](https://img.badgesize.io/https://cdn.cocreate.app/parallax/latest/CoCreate-parallax.min.js?compression=gzip&style=flat-square&label=gzip&color=yellow)
+![brotli](https://img.badgesize.io/https://cdn.cocreate.app/parallax/latest/CoCreate-parallax.min.js?compression=brotli&style=flat-square&label=brotli)
+![GitHub latest release](https://img.shields.io/github/v/release/CoCreate-app/CoCreate-parallax?style=flat-square)
+![License](https://img.shields.io/github/license/CoCreate-app/CoCreate-parallax?style=flat-square)
+![Hiring](https://img.shields.io/static/v1?style=flat-square&label=&message=Hiring&color=blueviolet)
 
 ![CoCreate-parallax](https://cdn.cocreate.app/docs/CoCreate-parallax.gif)
 
@@ -27,6 +29,12 @@ For a complete guide and working demo refer to the [doumentation](https://cocrea
 
 ```shell
 $ npm i @cocreate/parallax
+```
+
+## yarn
+
+```shell
+$ yarn install @cocreate/parallax
 ```
 
 # Table of Contents
