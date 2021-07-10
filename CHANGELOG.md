@@ -1,3 +1,10 @@
+## [1.0.14](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.0.13...v1.0.14) (2021-07-10)
+
+
+### Bug Fixes
+
+* gitignore all logs ([f392c6f](https://github.com/CoCreate-app/CoCreate-parallax/commit/f392c6fc5b57b86539fb3d5e3b36e2e9516e623b))
+
 ## [1.0.13](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.0.12...v1.0.13) (2021-07-07)
 
 
