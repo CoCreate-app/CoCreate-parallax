@@ -1,3 +1,11 @@
+## [1.0.15](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.0.14...v1.0.15) (2021-07-13)
+
+
+### Bug Fixes
+
+* add yarn lockfile to git ignore ([b96dcca](https://github.com/CoCreate-app/CoCreate-parallax/commit/b96dcca9c2f72c5d685ea5377dbce2fbaf6014f8))
+* remove yarn.lock ([29773ff](https://github.com/CoCreate-app/CoCreate-parallax/commit/29773ffca2fa6021fe11e8804b0a6fd20a180543))
+
 ## [1.0.14](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.0.13...v1.0.14) (2021-07-10)
 
 
