@@ -1,3 +1,11 @@
+## [1.0.17](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.0.16...v1.0.17) (2021-07-17)
+
+
+### Bug Fixes
+
+* init and update demos scripts ([e573fa2](https://github.com/CoCreate-app/CoCreate-parallax/commit/e573fa2308b67887d5a2603bc1238a398fc4dde4))
+* workflows ([71236af](https://github.com/CoCreate-app/CoCreate-parallax/commit/71236afc55230f2d6bf4e510b4399b9a557dd498))
+
 ## [1.0.16](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.0.15...v1.0.16) (2021-07-14)
 
 
