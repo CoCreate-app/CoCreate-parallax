@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.0.17...v1.1.0) (2021-07-28)
+
+
+### Features
+
+* add new is{attribute} system and remove data- from attributtes ([cc796c3](https://github.com/CoCreate-app/CoCreate-parallax/commit/cc796c3da5be0aeb81f020ba3dfb24ce73c26259))
+
 ## [1.0.17](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.0.16...v1.0.17) (2021-07-17)
 
 
