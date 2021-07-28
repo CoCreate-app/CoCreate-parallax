@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.0...v1.1.1) (2021-07-28)
+
+
+### Bug Fixes
+
+* remove data- from fetch, pass and filter ([5e50363](https://github.com/CoCreate-app/CoCreate-parallax/commit/5e5036329554a857d583293a2c16da98d262fb4b))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.0.17...v1.1.0) (2021-07-28)
 
 
