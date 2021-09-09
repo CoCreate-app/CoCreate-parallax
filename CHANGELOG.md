@@ -1,3 +1,10 @@
+## [1.1.12](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.11...v1.1.12) (2021-09-09)
+
+
+### Bug Fixes
+
+* CoCreate.config directory, path, name and  public ([2e6334a](https://github.com/CoCreate-app/CoCreate-parallax/commit/2e6334a1a83f5bdc09c7cada2d301774f7dc2fd6))
+
 ## [1.1.11](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.10...v1.1.11) (2021-09-08)
 
 
