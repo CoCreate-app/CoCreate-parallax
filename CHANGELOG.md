@@ -1,3 +1,10 @@
+## [1.1.16](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.15...v1.1.16) (2021-09-12)
+
+
+### Bug Fixes
+
+* update sidenav to use resize and toggle ([c8d62b7](https://github.com/CoCreate-app/CoCreate-parallax/commit/c8d62b7a6d30f2bd333905ff4cd7433f6c79dc0e))
+
 ## [1.1.15](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.14...v1.1.15) (2021-09-09)
 
 
