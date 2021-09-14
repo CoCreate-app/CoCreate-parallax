@@ -1,3 +1,10 @@
+## [1.1.18](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.17...v1.1.18) (2021-09-14)
+
+
+### Bug Fixes
+
+* add cocreate.app to domains ([b5650b0](https://github.com/CoCreate-app/CoCreate-parallax/commit/b5650b0797b27c6642e97922556c12a9a8d93de4))
+
 ## [1.1.17](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.16...v1.1.17) (2021-09-13)
 
 
