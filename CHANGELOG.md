@@ -1,3 +1,11 @@
+## [1.1.25](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.24...v1.1.25) (2021-10-05)
+
+
+### Bug Fixes
+
+* update dependencies ([5340790](https://github.com/CoCreate-app/CoCreate-parallax/commit/534079074e822376c09aaf359cb6bee8f222a8c8))
+* website_id in CoCreate.config ([64a61fb](https://github.com/CoCreate-app/CoCreate-parallax/commit/64a61fb82ac2a60b11e9d265c89d4732782a0a36))
+
 ## [1.1.24](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.23...v1.1.24) (2021-10-04)
 
 
