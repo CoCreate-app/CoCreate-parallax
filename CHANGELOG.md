@@ -1,3 +1,10 @@
+## [1.1.31](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.30...v1.1.31) (2021-10-16)
+
+
+### Bug Fixes
+
+* update socket package to fix bug in docs ([99afc19](https://github.com/CoCreate-app/CoCreate-parallax/commit/99afc196d7e3a42a7175473c1819ae82c1be1d6c))
+
 ## [1.1.30](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.29...v1.1.30) (2021-10-15)
 
 
