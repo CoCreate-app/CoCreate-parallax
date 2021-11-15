@@ -1,6 +1,6 @@
 {
   "name": "@cocreate/parallax",
-  "version": "1.1.37",
+  "version": "1.1.38",
   "description": "A stunning css effect in which the background moves at a slower pace than the foreground. Resulting in 3D effect when users scroll up/down the webpage.",
   "keywords": [
     "parallax",
