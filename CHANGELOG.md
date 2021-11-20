@@ -1,3 +1,10 @@
+## [1.1.44](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.43...v1.1.44) (2021-11-20)
+
+
+### Bug Fixes
+
+* remove cdn.CoCreate.min.css ([8233c7d](https://github.com/CoCreate-app/CoCreate-parallax/commit/8233c7dac97cf46e1b16db06cd309d68fd471293))
+
 ## [1.1.43](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.42...v1.1.43) (2021-11-20)
 
 
