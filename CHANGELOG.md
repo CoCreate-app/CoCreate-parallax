@@ -1,3 +1,10 @@
+## [1.1.47](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.46...v1.1.47) (2021-11-26)
+
+
+### Bug Fixes
+
+* docs sidenav width ([c4eb379](https://github.com/CoCreate-app/CoCreate-parallax/commit/c4eb37922f6934dc648c674773e5e8859f89a741))
+
 ## [1.1.46](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.45...v1.1.46) (2021-11-26)
 
 
