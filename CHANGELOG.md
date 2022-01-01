@@ -1,3 +1,10 @@
+## [1.1.54](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.53...v1.1.54) (2022-01-01)
+
+
+### Bug Fixes
+
+* get-value attribute value now supports a selector added # to all values currently in get-value attributes ([81746ee](https://github.com/CoCreate-app/CoCreate-parallax/commit/81746ee6ccf5fd0c40c67564a89551e8571220ec))
+
 ## [1.1.53](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.52...v1.1.53) (2022-01-01)
 
 
