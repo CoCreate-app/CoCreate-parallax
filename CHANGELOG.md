@@ -1,3 +1,10 @@
+## [1.1.53](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.52...v1.1.53) (2022-01-01)
+
+
+### Bug Fixes
+
+* removed data- from attributes ([9f9a9a1](https://github.com/CoCreate-app/CoCreate-parallax/commit/9f9a9a1424577d00ae5511b3df41d84ebafb2437))
+
 ## [1.1.52](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.51...v1.1.52) (2021-12-15)
 
 
