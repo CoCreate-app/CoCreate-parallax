@@ -1,3 +1,10 @@
+## [1.1.56](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.55...v1.1.56) (2022-02-03)
+
+
+### Bug Fixes
+
+* replaced show and hide class hidden with attribute hidden ([d314650](https://github.com/CoCreate-app/CoCreate-parallax/commit/d314650159f2136f9fd7ee026f1d0a2d1fcc675a))
+
 ## [1.1.55](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.54...v1.1.55) (2022-02-01)
 
 
