@@ -1,3 +1,10 @@
+## [1.1.60](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.59...v1.1.60) (2022-02-24)
+
+
+### Bug Fixes
+
+* CoCreate.config replace CoCreate.app with * ([d704ab3](https://github.com/CoCreate-app/CoCreate-parallax/commit/d704ab3c1ef532d40acb6f388f045129fd47d10a))
+
 ## [1.1.59](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.58...v1.1.59) (2022-02-16)
 
 
