@@ -1,3 +1,10 @@
+## [1.1.61](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.60...v1.1.61) (2022-05-06)
+
+
+### Bug Fixes
+
+* update config organization_Id to organization_id ([c3a89d6](https://github.com/CoCreate-app/CoCreate-parallax/commit/c3a89d61a049bf264fb71ebda425df83ed61096e))
+
 ## [1.1.60](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.59...v1.1.60) (2022-02-24)
 
 
