@@ -1,3 +1,10 @@
+## [1.1.73](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.72...v1.1.73) (2022-10-02)
+
+
+### Bug Fixes
+
+* bump @cocreate/hosting and @cocreate/socket-client ([1e35ab5](https://github.com/CoCreate-app/CoCreate-parallax/commit/1e35ab586e0b05bef5fcf274153127e54562e36c))
+
 ## [1.1.72](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.71...v1.1.72) (2022-10-01)
 
 
