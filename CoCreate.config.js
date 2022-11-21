@@ -10,7 +10,7 @@ module.exports = {
             "collection": "files",
             "document_id": "60208f6c3c260207bf49cabc",
             "key": "src",
-            "data":{
+            "document": {
                 "name": "index.html",
                 "path": "/docs/parallax/index.html",
                 "domains": [
