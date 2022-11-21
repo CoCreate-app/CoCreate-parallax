@@ -1,3 +1,10 @@
+## [1.1.77](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.76...v1.1.77) (2022-11-21)
+
+
+### Bug Fixes
+
+* replaced document_id with document._id ([2f87420](https://github.com/CoCreate-app/CoCreate-parallax/commit/2f8742060fb452fc4a04611f65f3d4afe1af4508))
+
 ## [1.1.76](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.75...v1.1.76) (2022-11-21)
 
 
