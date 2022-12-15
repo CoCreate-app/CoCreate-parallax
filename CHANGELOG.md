@@ -1,3 +1,10 @@
+## [1.1.98](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.97...v1.1.98) (2022-12-15)
+
+
+### Bug Fixes
+
+* add missing dev dependency style-loader ([e7b01e2](https://github.com/CoCreate-app/CoCreate-parallax/commit/e7b01e26351a64cc25dc28456a35d89ed92fc4e3))
+
 ## [1.1.97](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.96...v1.1.97) (2022-12-13)
 
 
