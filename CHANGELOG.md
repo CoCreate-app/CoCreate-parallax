@@ -1,3 +1,11 @@
+## [1.1.105](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.104...v1.1.105) (2022-12-27)
+
+
+### Bug Fixes
+
+* bump dependencies ([a0c171b](https://github.com/CoCreate-app/CoCreate-parallax/commit/a0c171b036e135ec5baea416ac1f2259b672c87e))
+* modal href updated to modal-src ([f8632b3](https://github.com/CoCreate-app/CoCreate-parallax/commit/f8632b3ae705a35c98d3f81a8ef9d4de80f8484b))
+
 ## [1.1.104](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.103...v1.1.104) (2022-12-25)
 
 
