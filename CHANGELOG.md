@@ -1,3 +1,10 @@
+## [1.1.107](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.106...v1.1.107) (2022-12-30)
+
+
+### Bug Fixes
+
+* update config sources to use template  braces with entry on src ([2f8b611](https://github.com/CoCreate-app/CoCreate-parallax/commit/2f8b61177a5c97b51c708e076e1562c431e3fab8))
+
 ## [1.1.106](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.105...v1.1.106) (2022-12-29)
 
 
