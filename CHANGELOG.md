@@ -1,3 +1,10 @@
+## [1.1.109](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.108...v1.1.109) (2023-01-01)
+
+
+### Bug Fixes
+
+* docs sanbox overflow ([150b92a](https://github.com/CoCreate-app/CoCreate-parallax/commit/150b92a988dc34eab4ff8fa7c9682afd14c06e69))
+
 ## [1.1.108](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.107...v1.1.108) (2022-12-31)
 
 
