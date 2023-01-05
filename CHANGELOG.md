@@ -1,3 +1,11 @@
+## [1.1.110](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.109...v1.1.110) (2023-01-05)
+
+
+### Bug Fixes
+
+* bump cdn to 1.39.4 ([d963ada](https://github.com/CoCreate-app/CoCreate-parallax/commit/d963ada7f14c5a1c5d5052d605abf12f8bdbf51c))
+* bump dependencies ([e80eb5c](https://github.com/CoCreate-app/CoCreate-parallax/commit/e80eb5c2eddc9c7e3ad2a0f7333fa6dadc4494ce))
+
 ## [1.1.109](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.108...v1.1.109) (2023-01-01)
 
 
