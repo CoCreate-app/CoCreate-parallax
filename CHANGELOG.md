@@ -1,3 +1,10 @@
+## [1.1.119](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.118...v1.1.119) (2023-02-01)
+
+
+### Bug Fixes
+
+* bump dependencies ([c6f025f](https://github.com/CoCreate-app/CoCreate-parallax/commit/c6f025f88eb738308e6d16b5798f797d7fb9031a))
+
 ## [1.1.118](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.1.117...v1.1.118) (2023-01-31)
 
 
