@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.2.3...v1.2.4) (2023-04-11)
+
+
+### Bug Fixes
+
+* renamed domains to hosts ([2de8229](https://github.com/CoCreate-app/CoCreate-parallax/commit/2de82297f470d9459c3f7eea4f252a0f8f159f45))
+
 ## [1.2.3](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.2.2...v1.2.3) (2023-03-30)
 
 
