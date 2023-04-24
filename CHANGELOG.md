@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.2.6...v1.3.0) (2023-04-24)
+
+
+### Features
+
+* added pwa manifest ([1d035fa](https://github.com/CoCreate-app/CoCreate-parallax/commit/1d035fa99e4dc57b8c86f60295cada35f9fccb8a))
+
 ## [1.2.6](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.2.5...v1.2.6) (2023-04-11)
 
 
