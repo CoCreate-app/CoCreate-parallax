@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.0...v1.3.1) (2023-04-24)
+
+
+### Bug Fixes
+
+* removed uglifyjs-webpack-plugin ([f7b0c99](https://github.com/CoCreate-app/CoCreate-parallax/commit/f7b0c9942fecfb4787faa217053f875fbb5403d2))
+
 # [1.3.0](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.2.6...v1.3.0) (2023-04-24)
 
 
