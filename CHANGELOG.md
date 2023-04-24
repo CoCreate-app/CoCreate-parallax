@@ -1,3 +1,11 @@
+## [1.3.3](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.2...v1.3.3) (2023-04-24)
+
+
+### Bug Fixes
+
+* updated worrkflows to v3 and node version 16 ([38d74ad](https://github.com/CoCreate-app/CoCreate-parallax/commit/38d74ad07eb6d777309c5d8cefef9b18588f4d89))
+* workflow node version updated  16 ([718067f](https://github.com/CoCreate-app/CoCreate-parallax/commit/718067f9b5763be82d7f3eef9b2313d763ee8511))
+
 ## [1.3.2](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.1...v1.3.2) (2023-04-24)
 
 
