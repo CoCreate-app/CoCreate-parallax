@@ -1,3 +1,13 @@
+## [1.3.4](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.3...v1.3.4) (2023-04-30)
+
+
+### Bug Fixes
+
+* fullscreen target updated to fullscreen fullscreen-target ([2dc5642](https://github.com/CoCreate-app/CoCreate-parallax/commit/2dc56425b94351d642417b8b925d96abee54d52d))
+* package-lock.json and pnpm-lock.yaml added to .gitignore ([cc15e70](https://github.com/CoCreate-app/CoCreate-parallax/commit/cc15e70cfab769c32b8a0d3d9ca8ca416a20a597))
+* removed toogle fullscreen icons. now using css content ([f193c54](https://github.com/CoCreate-app/CoCreate-parallax/commit/f193c54704f151f06a08f36ddff5b343cd3938a2))
+* replaced sessionUser and sessionOrg with localstorage attributes ([217a577](https://github.com/CoCreate-app/CoCreate-parallax/commit/217a5778c56d3a7ac5fccd77f615486229e63ef7))
+
 ## [1.3.3](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.2...v1.3.3) (2023-04-24)
 
 
