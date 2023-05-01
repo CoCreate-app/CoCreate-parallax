@@ -1,3 +1,10 @@
+## [1.3.5](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.4...v1.3.5) (2023-05-01)
+
+
+### Bug Fixes
+
+* replace fontawesome with svg ([2b595d0](https://github.com/CoCreate-app/CoCreate-parallax/commit/2b595d0934b8b47b02dc5924019ba6bcbbf37a94))
+
 ## [1.3.4](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.3...v1.3.4) (2023-04-30)
 
 
