@@ -1,3 +1,10 @@
+## [1.3.6](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.5...v1.3.6) (2023-05-01)
+
+
+### Bug Fixes
+
+* update manifest.json to manifest.webmanifest ([1e76a7f](https://github.com/CoCreate-app/CoCreate-parallax/commit/1e76a7f4bf078fa143a16d5c7499d49f0ebbf172))
+
 ## [1.3.5](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.4...v1.3.5) (2023-05-01)
 
 
