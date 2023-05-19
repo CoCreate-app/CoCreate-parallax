@@ -1,3 +1,11 @@
+## [1.3.8](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.7...v1.3.8) (2023-05-19)
+
+
+### Bug Fixes
+
+* apikey renamed to key ([8b6b790](https://github.com/CoCreate-app/CoCreate-parallax/commit/8b6b790ca56f359413ff82678ea03a2bb611b9ae))
+* update packages to latest version. This commit updates various packages in the dependencies section of the package.json file to their latest published versions, thereby fixing multiple bugs and improving overall performance. ([22eaf47](https://github.com/CoCreate-app/CoCreate-parallax/commit/22eaf470285f8b4d92661bf6c1dc11f300af92d7))
+
 ## [1.3.7](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.6...v1.3.7) (2023-05-06)
 
 
