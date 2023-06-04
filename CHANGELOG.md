@@ -1,3 +1,10 @@
+## [1.3.10](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.9...v1.3.10) (2023-06-04)
+
+
+### Bug Fixes
+
+* **semantic-release:** worklow error solved by running node version 14 ([8a73fc0](https://github.com/CoCreate-app/CoCreate-parallax/commit/8a73fc0bf3d768425e58b39d41865009081a62c4))
+
 ## [1.3.9](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.8...v1.3.9) (2023-05-21)
 
 
