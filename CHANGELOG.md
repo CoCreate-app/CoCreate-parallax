@@ -1,3 +1,11 @@
+## [1.3.11](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.10...v1.3.11) (2023-06-04)
+
+
+### Bug Fixes
+
+* replaced secert GITHUB_TOKEN with GITHUB ([0d3fefa](https://github.com/CoCreate-app/CoCreate-parallax/commit/0d3fefab5552345126c0a96f056727936ac80a38))
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([0ab492b](https://github.com/CoCreate-app/CoCreate-parallax/commit/0ab492b98820068f1c60a3e52e6d67980aaa2827))
+
 ## [1.3.10](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.9...v1.3.10) (2023-06-04)
 
 
