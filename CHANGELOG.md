@@ -1,3 +1,10 @@
+## [1.3.12](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.11...v1.3.12) (2023-06-04)
+
+
+### Bug Fixes
+
+* Refactor CoCreate.config.js to remove hard-coded credentials ([93a6fb3](https://github.com/CoCreate-app/CoCreate-parallax/commit/93a6fb345837638805471225300481d26d498baa))
+
 ## [1.3.11](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.10...v1.3.11) (2023-06-04)
 
 
