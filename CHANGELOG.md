@@ -1,3 +1,10 @@
+## [1.3.16](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.15...v1.3.16) (2023-06-11)
+
+
+### Bug Fixes
+
+* @cocreate/cli moved to dependencies ([0f8541a](https://github.com/CoCreate-app/CoCreate-parallax/commit/0f8541ae4e4df1d1bccaaebbbbad254bbc9fe028))
+
 ## [1.3.15](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.14...v1.3.15) (2023-06-11)
 
 
