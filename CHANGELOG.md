@@ -1,3 +1,11 @@
+## [1.3.20](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.19...v1.3.20) (2023-06-11)
+
+
+### Bug Fixes
+
+* testing workflow ([db72246](https://github.com/CoCreate-app/CoCreate-parallax/commit/db72246282486dc7daf8bd17ada7ef25a7ab2035))
+* testing workflow ([eefb68d](https://github.com/CoCreate-app/CoCreate-parallax/commit/eefb68d81b47f8683b0562bcea8ea32473ecda65))
+
 ## [1.3.19](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.18...v1.3.19) (2023-06-11)
 
 
