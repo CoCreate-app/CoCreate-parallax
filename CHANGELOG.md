@@ -1,3 +1,10 @@
+## [1.3.14](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.13...v1.3.14) (2023-06-11)
+
+
+### Bug Fixes
+
+* renamed hosts to host. the value can be a string or an array of strings ([16c0766](https://github.com/CoCreate-app/CoCreate-parallax/commit/16c0766b5a0b69784d35747fc46153efb0f29c3e))
+
 ## [1.3.13](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.12...v1.3.13) (2023-06-10)
 
 
