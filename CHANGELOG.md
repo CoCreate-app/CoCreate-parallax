@@ -1,3 +1,10 @@
+## [1.3.23](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.22...v1.3.23) (2023-06-11)
+
+
+### Bug Fixes
+
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([8ecaf07](https://github.com/CoCreate-app/CoCreate-parallax/commit/8ecaf076710035470682044f98e6d36a621147f4))
+
 ## [1.3.22](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.21...v1.3.22) (2023-06-11)
 
 
