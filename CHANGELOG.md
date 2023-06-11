@@ -1,3 +1,10 @@
+## [1.3.17](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.16...v1.3.17) (2023-06-11)
+
+
+### Bug Fixes
+
+* postintall error ([661ec49](https://github.com/CoCreate-app/CoCreate-parallax/commit/661ec49b39f539d7cfbb0a638c7164c95d1fbc83))
+
 ## [1.3.16](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.15...v1.3.16) (2023-06-11)
 
 
