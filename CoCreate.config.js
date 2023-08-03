@@ -4,8 +4,8 @@ module.exports = {
     "host": "",
     "sources": [
         {
-            "collection": "files",
-            "document": {
+            "array": "files",
+            "object": {
                 "_id": "60208f6c3c260207bf49cabc",
                 "name": "index.html",
                 "path": "/docs/parallax/index.html",
