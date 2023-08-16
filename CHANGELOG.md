@@ -1,3 +1,17 @@
+# [1.4.0](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.25...v1.4.0) (2023-08-16)
+
+
+### Bug Fixes
+
+* crud attributes renamed ([2855d60](https://github.com/CoCreate-app/CoCreate-parallax/commit/2855d60effc2f01fa6f4f037f5744868741d7e20))
+* replace -target -selector ([efca4dc](https://github.com/CoCreate-app/CoCreate-parallax/commit/efca4dc26aeaddbdada30994c19456b21ff358d1))
+* webpack.config and package.json make use of mode=production instead of process.env ([780c2cd](https://github.com/CoCreate-app/CoCreate-parallax/commit/780c2cdbd734af5f4c12b25232c2e3b20b09435b))
+
+
+### Features
+
+* name attribute and variable renamed to key ([b1b5b98](https://github.com/CoCreate-app/CoCreate-parallax/commit/b1b5b98d04c459893ccd134f6658ef402ce3f298))
+
 ## [1.3.25](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.3.24...v1.3.25) (2023-06-14)
 
 
