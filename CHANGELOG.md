@@ -1,3 +1,12 @@
+## [1.5.1](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.5.0...v1.5.1) (2023-08-21)
+
+
+### Bug Fixes
+
+* /dist/CoCreate.js updated to https://CoCreate.app/dist/CoCreate.js ([56ab1c7](https://github.com/CoCreate-app/CoCreate-parallax/commit/56ab1c73215da24e6d5d9372f37714d95b8639bb))
+* replace cdn with /dist ([4c331a7](https://github.com/CoCreate-app/CoCreate-parallax/commit/4c331a7856073576661014b09e9b974bd5c159a4))
+* update file uploader ([9cd08e4](https://github.com/CoCreate-app/CoCreate-parallax/commit/9cd08e4845cde689c1910e445254d346f03f249d))
+
 # [1.5.0](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.4.0...v1.5.0) (2023-08-17)
 
 
