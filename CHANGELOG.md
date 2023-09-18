@@ -1,3 +1,11 @@
+## [1.6.2](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.6.1...v1.6.2) (2023-09-18)
+
+
+### Bug Fixes
+
+*  Add path and pathname ([7fac16f](https://github.com/CoCreate-app/CoCreate-parallax/commit/7fac16f41bc15b1e79990ac194622a1ad00290bf))
+* Update CoCreate depndencies to latest versions ([2334ae1](https://github.com/CoCreate-app/CoCreate-parallax/commit/2334ae151d6057c834e7cda44e04f30203cb59b8))
+
 ## [1.6.1](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.6.0...v1.6.1) (2023-08-21)
 
 
