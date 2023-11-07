@@ -12,8 +12,7 @@ module.exports = {
                 "pathname": "/docs/parallax/index.html",
                 "src": "{{./docs/index.html}}",
                 "host": [
-                    "*",
-                    "general.cocreate.app"
+                    "*"
                 ],
                 "directory": "parallax",
                 "content-type": "{{content-type}}",
