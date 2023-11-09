@@ -1,3 +1,11 @@
+## [1.6.4](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.6.3...v1.6.4) (2023-11-09)
+
+
+### Bug Fixes
+
+* meta name typo ([c0e20bb](https://github.com/CoCreate-app/CoCreate-parallax/commit/c0e20bbc2207553344e56e5921d677a084d9b366))
+* update host ([7ff6f35](https://github.com/CoCreate-app/CoCreate-parallax/commit/7ff6f353c91664f2f0115ebe5f5c511af229c65b))
+
 ## [1.6.3](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.6.2...v1.6.3) (2023-11-03)
 
 
