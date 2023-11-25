@@ -1,3 +1,16 @@
+# [1.8.0](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.7.0...v1.8.0) (2023-11-25)
+
+
+### Bug Fixes
+
+* pass attributes renamed to state ([bcf8fbb](https://github.com/CoCreate-app/CoCreate-parallax/commit/bcf8fbb08011848e515d5718a352496c087fa6cb))
+* update nav, edit button and css path ([7e83469](https://github.com/CoCreate-app/CoCreate-parallax/commit/7e83469d1751a505e160e66abbf0cc7728b2515b))
+
+
+### Features
+
+* upgrade dependencies for latest features and fixes ([393af97](https://github.com/CoCreate-app/CoCreate-parallax/commit/393af97f657fa3710fc3067fbb8ab6470f38ddd9))
+
 # [1.7.0](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.6.5...v1.7.0) (2023-11-19)
 
 
