@@ -1,3 +1,10 @@
+## [1.9.2](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.9.1...v1.9.2) (2024-05-19)
+
+
+### Bug Fixes
+
+* replaced localstorage-key with $user_id operator ([742aee8](https://github.com/CoCreate-app/CoCreate-parallax/commit/742aee8b73b7374351a31d46dc7b2a1adcfb2715))
+
 ## [1.9.1](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.9.0...v1.9.1) (2024-04-29)
 
 
