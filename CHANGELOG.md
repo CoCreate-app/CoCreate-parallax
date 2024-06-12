@@ -1,3 +1,11 @@
+## [1.9.3](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.9.2...v1.9.3) (2024-06-12)
+
+
+### Bug Fixes
+
+* bump cocreate dependencies ([d4eee56](https://github.com/CoCreate-app/CoCreate-parallax/commit/d4eee563d326973e3ff21b9dd73ebfc3f9d29dbe))
+* svg icon class ([33a6c8b](https://github.com/CoCreate-app/CoCreate-parallax/commit/33a6c8be6b5859d86c24a4be9c7f6db509a755e3))
+
 ## [1.9.2](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.9.1...v1.9.2) (2024-05-19)
 
 
