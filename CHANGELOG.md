@@ -1,3 +1,16 @@
+# [1.10.0](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.9.3...v1.10.0) (2024-11-04)
+
+
+### Bug Fixes
+
+* pretier.config.js and file formating ([21be2f1](https://github.com/CoCreate-app/CoCreate-parallax/commit/21be2f144087194a692de2c3e5ffaebdf029da23))
+
+
+### Features
+
+* add prettier.config.js and format files ([b60da24](https://github.com/CoCreate-app/CoCreate-parallax/commit/b60da24415eace831d1c09f0388099be79e52b7e))
+* add prettier.config.js and format files ([92668ba](https://github.com/CoCreate-app/CoCreate-parallax/commit/92668bafdfa3694a39c35811707129a3409dc4f2))
+
 ## [1.9.3](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.9.2...v1.9.3) (2024-06-12)
 
 
