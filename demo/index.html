@@ -1,182 +1,182 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title>Parallax | CoCreateJS</title>
+	<head>
+		<title>Parallax | CoCreateJS</title>
 
-        <!-- CoCreate Favicon -->
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="32x32"
-            href="../assets/favicon.ico" />
-        <!-- CoCreate CSS CDN -->
-        <link
-            rel="stylesheet"
-            href="https://cdn.cocreate.app/parallax/latest/CoCreate-parallax.min.css"
-            type="text/css" />
-        <link rel="manifest" href="/manifest.webmanifest" />
-    </head>
-    <body>
-        <!-- Avatar -->
-        <div
-            localstorage-get="user_id"
-            localstorage-key="userId"
-            localstorage-selector=".avatar-wrapper"></div>
-        <div class="avatar-wrapper margin:5px_0px margin-right:10px">
-            <a
-                class="avatar round"
-                actions="state, openModal"
-                modal-src="render.html"
-                state-array="modules"
-                state-object="5dd010bccbc25f0cdb1a4d9f"
-                state_to="render"
-                modal-width="300px"
-                modal-height="375px"
-                modal-color="#229954">
-                <span
-                    array="users"
-                    object="$user_id"
-                    key="name"
-                    class="width:12px avatar-name"
-                    >B</span
-                >
-                <span
-                    array="users"
-                    object="$user_id"
-                    key="profile_image"
-                    class="avatar-image">
-                    <img
-                        src="/_static/Velazquez.jpg"
-                        onerror="this.style.display='none'" />
-                </span>
-            </a>
-            <div class="avatar-status off"></div>
-        </div>
+		<!-- CoCreate Favicon -->
+		<link
+			rel="icon"
+			type="image/png"
+			sizes="32x32"
+			href="../assets/favicon.ico" />
+		<!-- CoCreate CSS CDN -->
+		<link
+			rel="stylesheet"
+			href="https://cdn.cocreate.app/parallax/latest/CoCreate-parallax.min.css"
+			type="text/css" />
+		<link rel="manifest" href="/manifest.webmanifest" />
+	</head>
+	<body>
+		<!-- Avatar -->
+		<div
+			localstorage-get="user_id"
+			localstorage-key="userId"
+			localstorage-query=".avatar-wrapper"></div>
+		<div class="avatar-wrapper margin:5px_0px margin-right:10px">
+			<a
+				class="avatar round"
+				actions="state, openModal"
+				modal-src="render.html"
+				state-array="modules"
+				state-object="5dd010bccbc25f0cdb1a4d9f"
+				state_to="render"
+				modal-width="300px"
+				modal-height="375px"
+				modal-color="#229954">
+				<span
+					array="users"
+					object="$user_id"
+					key="name"
+					class="width:12px avatar-name"
+					>B</span
+				>
+				<span
+					array="users"
+					object="$user_id"
+					key="profile_image"
+					class="avatar-image">
+					<img
+						src="/_static/Velazquez.jpg"
+						onerror="this.style.display='none'" />
+				</span>
+			</a>
+			<div class="avatar-status off"></div>
+		</div>
 
-        <div content_id="content">
-            <div
-                class="parallax height:300px"
-                parallax-src="https://www.w3schools.com/howto/img_parallax.jpg">
-                <div class="caption">
-                    <span class="border">SCROLL DOWN</span>
-                </div>
-            </div>
+		<div content_id="content">
+			<div
+				class="parallax height:300px"
+				parallax-src="https://www.w3schools.com/howto/img_parallax.jpg">
+				<div class="caption">
+					<span class="border">SCROLL DOWN</span>
+				</div>
+			</div>
 
-            <div
-                style="
-                    color: #777;
-                    background-color: white;
-                    text-align: center;
-                    padding: 50px 80px;
-                    text-align: justify;
-                ">
-                <h3 style="text-align: center">Parallax Demo</h3>
-                <p>
-                    Parallax scrolling is a web site trend where the background
-                    content is moved at a different speed than the foreground
-                    content while scrolling. Nascetur per nec posuere turpis,
-                    lectus nec libero turpis nunc at, sed posuere mollis
-                    ullamcorper libero ante lectus, blandit pellentesque a,
-                    magna turpis est sapien duis blandit dignissim. Viverra
-                    interdum mi magna mi, morbi sociis. Condimentum dui ipsum
-                    consequat morbi, curabitur aliquam pede, nullam vitae eu
-                    placerat eget et vehicula. Varius quisque non molestie
-                    dolor, nunc nisl dapibus vestibulum at, sodales tincidunt
-                    mauris ullamcorper, dapibus pulvinar, in in neque risus
-                    odio. Accumsan fringilla vulputate at quibusdam sociis
-                    eleifend, aenean maecenas vulputate, non id vehicula lorem
-                    mattis, ratione interdum sociis ornare. Suscipit proin magna
-                    cras vel, non sit platea sit, maecenas ante augue etiam
-                    maecenas, porta porttitor placerat leo.
-                </p>
-            </div>
+			<div
+				style="
+					color: #777;
+					background-color: white;
+					text-align: center;
+					padding: 50px 80px;
+					text-align: justify;
+				">
+				<h3 style="text-align: center">Parallax Demo</h3>
+				<p>
+					Parallax scrolling is a web site trend where the background
+					content is moved at a different speed than the foreground
+					content while scrolling. Nascetur per nec posuere turpis,
+					lectus nec libero turpis nunc at, sed posuere mollis
+					ullamcorper libero ante lectus, blandit pellentesque a,
+					magna turpis est sapien duis blandit dignissim. Viverra
+					interdum mi magna mi, morbi sociis. Condimentum dui ipsum
+					consequat morbi, curabitur aliquam pede, nullam vitae eu
+					placerat eget et vehicula. Varius quisque non molestie
+					dolor, nunc nisl dapibus vestibulum at, sodales tincidunt
+					mauris ullamcorper, dapibus pulvinar, in in neque risus
+					odio. Accumsan fringilla vulputate at quibusdam sociis
+					eleifend, aenean maecenas vulputate, non id vehicula lorem
+					mattis, ratione interdum sociis ornare. Suscipit proin magna
+					cras vel, non sit platea sit, maecenas ante augue etiam
+					maecenas, porta porttitor placerat leo.
+				</p>
+			</div>
 
-            <div
-                class="parallax"
-                parallax-src="https://www.w3schools.com/howto/img_parallax2.jpg"
-                parallax-height="300px">
-                <div class="caption">
-                    <span
-                        class="border"
-                        style="
-                            background-color: transparent;
-                            font-size: 25px;
-                            color: #f7f7f7;
-                        "
-                        >LESS HEIGHT</span
-                    >
-                </div>
-            </div>
+			<div
+				class="parallax"
+				parallax-src="https://www.w3schools.com/howto/img_parallax2.jpg"
+				parallax-height="300px">
+				<div class="caption">
+					<span
+						class="border"
+						style="
+							background-color: transparent;
+							font-size: 25px;
+							color: #f7f7f7;
+						"
+						>LESS HEIGHT</span
+					>
+				</div>
+			</div>
 
-            <div style="position: relative">
-                <div
-                    style="
-                        color: #ddd;
-                        background-color: #282e34;
-                        text-align: center;
-                        padding: 50px 80px;
-                        text-align: justify;
-                    ">
-                    <p>
-                        Scroll up and down to really get the feeling of how
-                        Parallax Scrolling works.
-                    </p>
-                </div>
-            </div>
+			<div style="position: relative">
+				<div
+					style="
+						color: #ddd;
+						background-color: #282e34;
+						text-align: center;
+						padding: 50px 80px;
+						text-align: justify;
+					">
+					<p>
+						Scroll up and down to really get the feeling of how
+						Parallax Scrolling works.
+					</p>
+				</div>
+			</div>
 
-            <div
-                class="parallax"
-                parallax-src="https://www.w3schools.com/howto/img_parallax2.jpg"
-                parallax-height="300px">
-                <div class="caption">
-                    <span
-                        class="border"
-                        style="
-                            background-color: transparent;
-                            font-size: 25px;
-                            color: #f7f7f7;
-                        "
-                        >SCROLL UP</span
-                    >
-                </div>
-            </div>
+			<div
+				class="parallax"
+				parallax-src="https://www.w3schools.com/howto/img_parallax2.jpg"
+				parallax-height="300px">
+				<div class="caption">
+					<span
+						class="border"
+						style="
+							background-color: transparent;
+							font-size: 25px;
+							color: #f7f7f7;
+						"
+						>SCROLL UP</span
+					>
+				</div>
+			</div>
 
-            <div style="position: relative">
-                <div
-                    style="
-                        color: #ddd;
-                        background-color: #282e34;
-                        text-align: center;
-                        padding: 50px 80px;
-                        text-align: justify;
-                    ">
-                    <p>
-                        Scroll up and down to really get the feeling of how
-                        Parallax Scrolling works.
-                    </p>
-                </div>
-            </div>
+			<div style="position: relative">
+				<div
+					style="
+						color: #ddd;
+						background-color: #282e34;
+						text-align: center;
+						padding: 50px 80px;
+						text-align: justify;
+					">
+					<p>
+						Scroll up and down to really get the feeling of how
+						Parallax Scrolling works.
+					</p>
+				</div>
+			</div>
 
-            <div
-                class="parallax"
-                parallax-src="https://www.w3schools.com/howto/img_parallax.jpg"
-                parallax-height="300px">
-                <div class="caption">
-                    <span class="border">COOL!</span>
-                </div>
-            </div>
-        </div>
+			<div
+				class="parallax"
+				parallax-src="https://www.w3schools.com/howto/img_parallax.jpg"
+				parallax-height="300px">
+				<div class="caption">
+					<span class="border">COOL!</span>
+				</div>
+			</div>
+		</div>
 
-        <div
-            id="menuL"
-            class="cocreate-sidenav bg-medium-light-gray"
-            content_id="content"
-            sidenav_default_desktop="offCanvas"
-            sidenav_default_tablet="offCanvas">
-            <div resize="right"></div>
-        </div>
+		<div
+			id="menuL"
+			class="cocreate-sidenav bg-medium-light-gray"
+			content_id="content"
+			sidenav_default_desktop="offCanvas"
+			sidenav_default_tablet="offCanvas">
+			<div resize="right"></div>
+		</div>
 
-        <!--<script src="../dist/CoCreate-parallax.js"></script>-->
-        <script src="https://CoCreate.app/dist/CoCreate.js"></script>
-    </body>
+		<!--<script src="../dist/CoCreate-parallax.js"></script>-->
+		<script src="https://CoCreate.app/dist/CoCreate.js"></script>
+	</body>
 </html>
