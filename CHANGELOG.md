@@ -1,3 +1,13 @@
+## [1.10.1](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.10.0...v1.10.1) (2025-04-30)
+
+
+### Bug Fixes
+
+* added css-loader ([c1aa045](https://github.com/CoCreate-app/CoCreate-parallax/commit/c1aa0454142797c37d30dc7b3feace81a0e883ee))
+* update query attributes ([a0cf356](https://github.com/CoCreate-app/CoCreate-parallax/commit/a0cf3560a57b83efb88fd3d58a079ca36a9cd426))
+* updated cocreate modules versions ([261c925](https://github.com/CoCreate-app/CoCreate-parallax/commit/261c9255bd16a393c53720bdfdacbdc38be229ba))
+* webpack.config and devdependencies ([9c286d4](https://github.com/CoCreate-app/CoCreate-parallax/commit/9c286d4d8969540fe171ef4d9b19d01c88890f3e))
+
 # [1.10.0](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.9.3...v1.10.0) (2024-11-04)
 
 
