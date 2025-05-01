@@ -1,3 +1,10 @@
+## [1.10.2](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.10.1...v1.10.2) (2025-05-01)
+
+
+### Bug Fixes
+
+* update [@cocreate](https://github.com/cocreate) dependencies ([70250c1](https://github.com/CoCreate-app/CoCreate-parallax/commit/70250c1e62a135ee1f192de1218790be78dabced))
+
 ## [1.10.1](https://github.com/CoCreate-app/CoCreate-parallax/compare/v1.10.0...v1.10.1) (2025-04-30)
 
 
